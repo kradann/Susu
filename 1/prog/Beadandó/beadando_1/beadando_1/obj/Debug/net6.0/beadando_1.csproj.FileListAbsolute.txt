@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\bin\Debug\net6.0\beadando_1.exe
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\bin\Debug\net6.0\beadando_1.deps.json
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\bin\Debug\net6.0\beadando_1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\bin\Debug\net6.0\beadando_1.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\bin\Debug\net6.0\beadando_1.pdb
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\refint\beadando_1.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.pdb
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\beadando_1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\beadando_1\beadando_1\obj\Debug\net6.0\ref\beadando_1.dll
