@@ -1,0 +1,14 @@
+C:\suli\prog\0912\bin\Debug\net6.0\0912.exe
+C:\suli\prog\0912\bin\Debug\net6.0\0912.deps.json
+C:\suli\prog\0912\bin\Debug\net6.0\0912.runtimeconfig.json
+C:\suli\prog\0912\bin\Debug\net6.0\0912.dll
+C:\suli\prog\0912\bin\Debug\net6.0\0912.pdb
+C:\suli\prog\0912\obj\Debug\net6.0\0912.GeneratedMSBuildEditorConfig.editorconfig
+C:\suli\prog\0912\obj\Debug\net6.0\0912.AssemblyInfoInputs.cache
+C:\suli\prog\0912\obj\Debug\net6.0\0912.AssemblyInfo.cs
+C:\suli\prog\0912\obj\Debug\net6.0\0912.csproj.CoreCompileInputs.cache
+C:\suli\prog\0912\obj\Debug\net6.0\0912.dll
+C:\suli\prog\0912\obj\Debug\net6.0\refint\0912.dll
+C:\suli\prog\0912\obj\Debug\net6.0\0912.pdb
+C:\suli\prog\0912\obj\Debug\net6.0\0912.genruntimeconfig.cache
+C:\suli\prog\0912\obj\Debug\net6.0\ref\0912.dll
