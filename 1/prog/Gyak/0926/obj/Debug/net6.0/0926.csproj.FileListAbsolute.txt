@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\bin\Debug\net6.0\0926.exe
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\bin\Debug\net6.0\0926.deps.json
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\bin\Debug\net6.0\0926.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\bin\Debug\net6.0\0926.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\bin\Debug\net6.0\0926.pdb
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\refint\0926.dll
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.pdb
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\0926.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Eotvos Lorand Tudomanyegyetem\Susu\programozás\0926\obj\Debug\net6.0\ref\0926.dll
